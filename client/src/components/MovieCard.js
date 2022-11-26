@@ -45,8 +45,7 @@ const Discount = styled.div`
   left: 0;
   padding: 8px 32px;
   text-align: center;
-  transform: translateY(-100%) rotate(-90deg) translateX(-70.71067811865476%)
-    rotate(45deg);
+  transform: translateY(-100%) rotate(-90deg) translateX(-70.71067811865476%) rotate(45deg);
   transform-origin: bottom left;
 `;
 
